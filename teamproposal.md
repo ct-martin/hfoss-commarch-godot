@@ -20,7 +20,7 @@ Open-source game engine
 
 ## What will each team member's role be?
 
-Christian: proposal, calculation parts (Git by a Bus, Coef of Fail)
+Christian: proposal, running calculation parts (Git by a Bus, Coef of Fail)
 
 *Believable answer, something that might go as a title on a resume (emphasis on believable.)*
 
