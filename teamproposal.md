@@ -29,23 +29,23 @@ Christian: proposal, Coef of Fail
 
 *Believable answer, something that might go as a title on a resume (emphasis on believable.)*
 
-# Source Code Repository URL?
+## Source Code Repository URL?
 
 https://github.com/godotengine/godot
 
-# How will you communicate with them? (i.e. IRC Channel, Email Addresss, mail lists, issue trackers, etc...)
+## How will you communicate with them? (i.e. IRC Channel, Email Addresss, mail lists, issue trackers, etc...)
 
 Email, IRC (presumably)
 
-# What are the easy parts?
+## What are the easy parts?
 
 * Run stuff
 
-# What are the hard parts?
+## What are the hard parts?
 
 * Git by a Bus seems to be having mixed results for other teams
 * Communication is an issue
 
-# How will you overcome both?
+## How will you overcome both?
 
 * Regular progress check-ins to see where people are at
