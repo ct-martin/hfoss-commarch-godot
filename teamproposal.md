@@ -20,8 +20,11 @@ Open-source game engine
 _Each member will do the rough write-up for their own parts_
 
 Christian: proposal, Coef of Fail
+
 ???: Git by a Bus
+
 ???: Research
+
 ???: Turn rough writing into a pretty blog post on the repo and slides for class
 
 *Believable answer, something that might go as a title on a resume (emphasis on believable.)*
