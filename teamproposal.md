@@ -4,7 +4,7 @@
 
   * Christian Martin / ctmartin (IRC)
   * ref???
-  * conncast???
+  * Connor DiMaio / Conncast (IRC)
   * cxw???
 
 ## Which project did your team choose?
@@ -23,7 +23,7 @@ Christian: proposal, Coef of Fail
 
 ???: Git by a Bus
 
-???: Research
+Connor: Research
 
 ???: Turn rough writing into a pretty blog post on the repo and slides for class
 
