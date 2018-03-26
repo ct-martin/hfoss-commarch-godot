@@ -25,9 +25,7 @@ Christian: proposal, Coef of Fail
 
 Connor: Research
 
-Calvin: Research and slides
-
-???: Turn rough writing into a pretty blog post on the repo and slides for class
+Calvin: Slides
 
 *Believable answer, something that might go as a title on a resume (emphasis on believable.)*
 
