@@ -98,6 +98,8 @@ analysis, but should give a personal account "in your own voice."
 
 Prepare in a brief slide-deck to present as a group to the class based on your research.
 
+https://docs.google.com/presentation/d/1RPPt3ZGDr78KIGnCYvoEirhhCS2OJxyjYf2bJlgiiI4/edit?usp=sharing
+
 #### 9. Review your teammates' work 30 pts
 
 For more on 8 and 9, see [CommArch evaluation and presentation](commarch-eval-and-preso)
