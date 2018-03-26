@@ -3,7 +3,7 @@
 ## List your other team members below
 
   * Christian Martin / ctmartin (IRC)
-  * ref???
+  * Keegan Taylor / ref (IRC)
   * Connor DiMaio / Conncast (IRC)
   * Calvin Wu / cxw7054 (IRC)
 
@@ -21,7 +21,7 @@ _Each member will do the rough write-up for their own parts_
 
 Christian: proposal, Coef of Fail
 
-???: Git by a Bus
+ref/Christian: Git by a Bus
 
 Connor: Research
 
