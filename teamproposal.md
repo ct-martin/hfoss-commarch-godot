@@ -35,7 +35,7 @@ https://github.com/godotengine/godot
 
 ## How will you communicate with them? (i.e. IRC Channel, Email Addresss, mail lists, issue trackers, etc...)
 
-Email, IRC (presumably)
+Email, Matrix
 
 ## What are the easy parts?
 
