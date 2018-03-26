@@ -4,10 +4,18 @@
 
   * Matrix Channel: https://riot.im/app/#/room/#freenode_##rit-hfoss-godot:matrix.org
   * Repo: https://github.com/ct-martin/hfoss-commarch-godot
-  * Mail list archive:
-  * Documentation:
-  * Other communication channels
-  * Project Website and/or Blog: 
++  * Mail list archive: https://listengine.tuxfamily.org/godotengine.org/devel/
++  * Documentation: https://godot.readthedocs.io/en/3.0/
++  * Other communication channels:
++      * Q&A: https://godotengine.org/qa/
++      * Discord: https://discordapp.com/invite/zH7NUgz
++      * Facebook: https://www.facebook.com/groups/godotengine/about/
++      * Reddit: https://www.reddit.com/r/godot/
++      * Twitter: https://twitter.com/godotengine
++      * Forum: https://godotdevelopers.org/forum/  
++      * Steam Community: https://steamcommunity.com/app/404790
++ 
++  * Project Website and/or Blog: https://godotengine.org/devblog
 
   * A.  ***Godot*** <br>
         "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface" <sup>1</sup>. Godot helps develolpers save time by giving them a variety of tools commonly used in game development. Their goal is to help users focus more on their game and less on redeveloping commonly used features. Godot is licensed under the MIT lecense and is completely free to use. Users of Godot are the sole owners of any games they create and Godot is supported by the Software Freedom Conservancy.
