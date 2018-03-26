@@ -1,4 +1,4 @@
-[https://www.theopensourceway.org/wiki/How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL]
+https://www.theopensourceway.org/wiki/How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL
 
 # Size
 * The source code is more than 100 MB. ~[ +5 points of FAIL ]~
@@ -57,7 +57,7 @@
 
 # Communication
 * Your project does not announce releases on a mailing list **[ +5 points of FAIL ]**
-* Your project does not have a mailing list **[ +10 points of FAIL ]**
+* Your project does not have a mailing list ~[ +10 points of FAIL ]~
 * Your project does not have a bug tracker ~[ +20 points of FAIL ]~
 * Your project does not have a website ~[ +50 points of FAIL]~
 * Your project is sourceforge vaporware ~[ +100 points of FAIL ]~
@@ -101,12 +101,12 @@
 # FAIL METER
 0 points of FAIL: Perfect! All signs point to success!<BR>
 5-25 points of FAIL: You're probably doing okay, but you could be better.<BR>
-30-60 points of FAIL: Babies cry when your code is downloaded<BR>
-**65-90 points of FAIL: Kittens die when your code is downloaded<BR>**
+**30-60 points of FAIL: Babies cry when your code is downloaded<BR>**
+65-90 points of FAIL: Kittens die when your code is downloaded<BR>**
 95-130 points of FAIL: HONK HONK. THE FAILBOAT HAS ARRIVED!<BR>
 135+ points of FAIL: So much fail, your code should have its own reality TV show.<BR>
 
 # Personal notes on FAIL METER
-* 50 of the 65 FAIL points are for the use of the SCons build system.
+* 50 of the 55 FAIL points are for the use of the SCons build system.
   From a quick look at what they're using (and why), I don't think this is a problem.
   I also defer to the [Introduction to the buildsystem](https://godot.readthedocs.io/en/3.0/development/compiling/introduction_to_the_buildsystem.html) docs page intro
