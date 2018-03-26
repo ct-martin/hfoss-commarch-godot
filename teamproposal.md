@@ -25,7 +25,7 @@ ref/Christian: Git by a Bus
 
 Connor: Research
 
-Calvin: Slides
+Calvin: Slides and a bit of research
 
 *Believable answer, something that might go as a title on a resume (emphasis on believable.)*
 
