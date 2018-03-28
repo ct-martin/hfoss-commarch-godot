@@ -6,25 +6,25 @@
 
 @appservice-irc:matrix.org made future room history visible to all room members, from the point they joined.
 
-ctmartin joined the room.
+## ctmartin joined the room.
 
 @appservice-irc:matrix.org changed the power level of @freenode_ctmartin|znc:matrix.org from Default (0) to Moderator (50).
 
 @appservice-irc:matrix.org changed the power level of @ctmartin:matrix.org from Default (0) to Moderator (50).
 
-ctmartin changed the topic to "HFOSS Team Godot!".
+## ctmartin changed the topic to "HFOSS Team Godot!".
 
 @appservice-irc:matrix.org changed the topic to "HFOSS Team Godot!".
 
 @appservice-irc:matrix.org changed the power level of @freenode_ChanServ:matrix.org from Default (0) to Moderator (50).
 
-ctmartin|znc (IRC) joined the room.
+## ctmartin|znc (IRC) joined the room.
 
-ChanServ (IRC) joined the room.
+## ChanServ (IRC) joined the room.
 
 # Fri, Mar 16 2018 9:45AM
 
-conncast joined the room.
+## conncast joined the room.
 
 ## \<conncast>
 
@@ -48,31 +48,31 @@ Sweet got my mobile setup. Liking riot so far.
 
 # Sat, Mar 17 2018 9:47AM
 
-techmagusxj (IRC) joined the room.
+## techmagusxj (IRC) joined the room.
 
-techmagusxj (IRC) left the room.
+## techmagusxj (IRC) left the room.
 
 # Sun, Mar 18 2018 11:58AM
 
-avelardipf (IRC) joined the room.
+## avelardipf (IRC) joined the room.
 
-avelardipf (IRC) left the room.
+## avelardipf (IRC) left the room.
 
 ## \<conncast>
 
 hey guys are we supposed to have something done tomorrow?
 
-SWATnx (IRC) joined the room.
+## SWATnx (IRC) joined the room.
 
-SWATnx (IRC) left the room.
+## SWATnx (IRC) left the room.
 
 # Mon, Mar 19 2018 9:21PM
 
-ycavirp768 (IRC) joined the room.
+## ycavirp768 (IRC) joined the room.
 
 # Wed, Mar 21 2018 1:32PM
 
-refferee joined the room.
+## refferee joined the room.
 
 ## \<refferee>
 
@@ -726,7 +726,7 @@ yup
 
 looked through contributors and such. for who did front end and backend i sorted by language and looked who was submitting what
 
-Yesterday
+# Yesterday
 
 ## \<cxw7054>
 
@@ -896,9 +896,9 @@ u guys can look over it
 
 cxw7054: will do in a few
 
-ctmartin|waiting (IRC) joined the room.
+## ctmartin|waiting (IRC) joined the room.
 
-ctmartin|waiting (IRC)
+## <ctmartin|waiting (IRC)>
 
 cxw7054[m]: I changed the presentation permissions from "anyone at RIT can view" to "anyone with the link can view" since dzho isn't logged in
 
@@ -914,7 +914,7 @@ who wants to do what slides
 
 History pls
 
-ctmartin|waiting (IRC)
+## ctmartin|waiting (IRC)
 
 cxw7054[m]: i'll do coef and gbab
 
@@ -944,7 +944,7 @@ it's short anyway
 
 ctmartin: conncast cxw7054 ?
 
-ctmartin|waiting (IRC)
+## \<ctmartin|waiting (IRC)>
 
 might as well get it over with
 
@@ -952,7 +952,7 @@ might as well get it over with
 
 aha i guess yeah if everyone is down
 
-ctmartin|waiting (IRC) left the room.
+## ctmartin|waiting (IRC) left the room.
 
 ## \<conncast>
 
